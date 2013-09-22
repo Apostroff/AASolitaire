@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AASoliterActivity!</string>
+    <string name="app_name">AASoliter</string>
+    <string name="ace">T</string>
+    <string name="king">К</string>    
+    <string name="queen">Д</string>
+    <string name="jack">В</string>
+    <string name="statresetpromt">Вы действительно хотите обнулить статистику?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="noenoughfree">Не достаточно свободных ячеек.Максимальное количество карт : </string>
+    <string name="askfromexit">Вы действительно хотите выйти?</string>
+    <string name="rasklad">Расклад №</string>
+    
+    <string name="newgame">Новая игра</string>
+    <string name="customgame">Задать расклад</string>
+    <string name="statistic">Статистика</string>
+    <string name="exit">Выход</string>
+    <string name="help">Помощь</string>
+    <string name="regame">Заново</string>
+    <string name="settings">Настройка</string>
+    <string name="accept">Принять</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Отмена</string>
+    <string name="enterNumber">Введите число (0-9999)</string>
+    <string name="win">Победа!!!</string>
+	<string name="lose">Проигрышь((()</string>
+	<string name="game">Игра</string>
+	<string name="reset">Обнулить</string>
+	<!--                           статистика        --> 
+	<string name="thistime">В этот раз</string>
+	<string name="total">Всего</string>
+	<string name="inrow">Полосы</string>
+	<string name="wins">выигрышей : </string>
+	<string name="loses">проигрышей : </string>
+	
+	
+	<string name="reset_stat_promt">Вы действительно хотите обнулить статистические данные?</string>
+</resources>

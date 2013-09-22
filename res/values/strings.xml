@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Droid Soliter </string>
+    <string name="ace">A</string>
+    <string name="king">K</string>    
+    <string name="queen">Q</string>
+    <string name="jack">J</string>
+    <string name="statresetpromt">Do you really want to reset the statistics ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="noenoughfree">It is not enough free cells.Max number of cards is  : </string>
+    <string name="askfromexit">Do you really want to exit?</string>
+    <string name="rasklad">Shuffle №</string>
+    
+    <string name="newgame">New game</string>
+    <string name="customgame">Set shuffle</string>
+    <string name="statistic">Statistics</string>
+    <string name="exit">Exit</string>
+    <string name="help">Help</string>
+    <string name="regame">Regame</string>
+    <string name="settings">Settings</string>
+    <string name="accept">Accept</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="enterNumber">Enter number (0-9999)</string>
+    <string name="win">Win!!!</string>
+	<string name="lose">Lose(((</string>
+	<string name="game">Game</string>
+	<string name="reset">Reset</string>
+	<!--                           статистика        --> 
+	<string name="thistime">This time</string>
+	<string name="total">Total</string>
+	<string name="inrow">In a row</string>
+	<string name="wins">wins : </string>
+	<string name="loses">loses : </string>
+	
+	
+	<string name="reset_stat_promt">Do you really want to reset the statistics ?</string>
+</resources>
